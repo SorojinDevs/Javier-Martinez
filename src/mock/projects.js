@@ -64,15 +64,6 @@ export const PROJECTS = [
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
   {
-    imgSrc: './assets/Image/portfolio.png',
-    title: 'My Portfolio',
-    description:
-      'Simple and classic modern portfolio for who wants to present himself as a software developer. Portfolio build with highly customizable using Tailwind CSS, Next Js.',
-    repoLink: 'https://github.com/AlterShadow/DevPortfolio',
-    sourceLink: 'https://thomasken.pro/',
-    category: [PROJECT_CATEGORY.FULL_STACK],
-  },
-  {
     imgSrc: 'https://images2.imgbox.com/dd/a3/Fcx8cjEr_o.jpg',
     title: 'Kitchen Store - E-Commerce',
     description:
