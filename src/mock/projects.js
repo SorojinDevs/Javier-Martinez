@@ -13,7 +13,7 @@ export const TABS = [
     icon: 'fluent:tab-desktop-20-regular',
   },
   {
-    label: 'Full Stack',
+    label: 'AI & Fullstack',
     value: PROJECT_CATEGORY.FULL_STACK,
     icon: 'bx:code-block',
   },
@@ -32,7 +32,7 @@ export const PROJECTS = [
     title: 'Simple Staking on TON (Uniton APP)',
     description:
       'Simple Staking is a feature that allows Uniton users to engage in single-sided staking of $UTN token within the TON Network. Simple Staking presents an opportunity to generate returns by staking just one kind of asset.',
-//    repoLink: 'https://github.com/AlterShadow/Uniton_App',
+    repoLink: 'https://github.com/AlterShadow/Uniton_App',
     sourceLink: 'https://app.unitontoken.com',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -41,7 +41,7 @@ export const PROJECTS = [
     title: 'LandX Perpetual Commodity Vaults Protocol',
     description:
       'Commodity vaults provide investors an inflation hedged return backed by a legal contract secured on underlying farmland. LandX makes commodity vaults available as a liquid digital asset.',
-//    repoLink: '',
+    repoLink: '',
     sourceLink: 'https://landx.fi/',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -59,7 +59,7 @@ export const PROJECTS = [
     title: 'Flipkart Clone - E-Commerce Project',
     description:
       'Flipkart Clone is done with top-notch features for the entrepreneur startups like Flipkart. It is build with React Js, Node Js.',
-//    repoLink: 'https://github.com/altershadow/flipkart-clone',
+    repoLink: 'https://github.com/altershadow/flipkart-clone',
     sourceLink: 'https://flipkart-web.vercel.app/',
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
@@ -68,7 +68,7 @@ export const PROJECTS = [
     title: 'Kitchen Store - E-Commerce',
     description:
       'The e-commerce to buy kitchen related items. College final year project base on Servlets and JSP (Java)',
-//    repoLink: 'https://github.com/AlterShadow/E-commerce-Java',
+    repoLink: 'https://github.com/AlterShadow/E-commerce-Java',
     sourceLink: '',
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
@@ -77,7 +77,7 @@ export const PROJECTS = [
     title: 'Okse Wallet & Card',
     description:
       'The Okse Wallet is our way of making the user experience even more streamlined through easier access to different Networks and helping you spend Crypto with Virtual and Physical Debit Cards.',
-//    repoLink: 'https://github.com/AlterShadow/privateRepos',
+    repoLink: 'https://github.com/AlterShadow/privateRepos',
     sourceLink: 'https://play.google.com/store/apps/details?id=wallet.okse.io&hl=en_US&gl=US',
     category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
   },
@@ -86,7 +86,7 @@ export const PROJECTS = [
     title: 'Adrestus Block Explorer',
     description:
       'Block and Transaction Explorer on Adrestus network using React, Tailwind CSS, Restful APIs, SpringBoot, WebSocket',
-//    repoLink: 'https://github.com/AlterShadow/Adrestus-Transaction-Explorer',
+    repoLink: 'https://github.com/AlterShadow/Adrestus-Transaction-Explorer',
     sourceLink: 'https://adrestus-explorer.vercel.app/',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -95,7 +95,7 @@ export const PROJECTS = [
     imgSrc: './assets/Image/adrestus.png',
     title: 'Adrestus Website',
     description: 'Adrestus Website using Three.js, Canva, React.js, Tailwind CSS, Email.js, HCaptcha',
-    repoLink: 'Private Repo',
+    repoLink: '',
     sourceLink: 'https://www.adrestus.net/',
     category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
   },
@@ -104,7 +104,7 @@ export const PROJECTS = [
     imgSrc: 'https://images2.imgbox.com/9d/d0/zdDVFtFN_o.png',
     title: 'Netflix Clone - TMDB API Project',
     description: 'Netflix clone using react Js. Proving movies details using TMDB API.',
-//    repoLink: 'https://github.com/AlterShadow/Adrestus-Transaction-Explorer',
+    repoLink: 'https://github.com/AlterShadow/Adrestus-Transaction-Explorer',
     sourceLink: 'https://netflix-clone-by-dhaval.web.app/',
     category: [PROJECT_CATEGORY.FULL_STACK],
   },
@@ -113,7 +113,7 @@ export const PROJECTS = [
     imgSrc: './assets/Image/ton-dex.png',
     title: 'Dex on TON network',
     description: 'Decentralized Exchange on TON network using React, Typescript, Tailwind CSS, FunC, Ston.fi SDK.',
-    repoLink: 'Private Repo',
+    repoLink: '',
     sourceLink: 'https://forfriends.me',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -122,6 +122,7 @@ export const PROJECTS = [
     title: 'MC² Finance',
     description:
       'A Crosschain non-custodial DeFi Platform to simply follow the best token, traders & Institutions, to learn from their content and earn by following their strategies using Vue, Rust, PostgreSQL, WebSocket',
+    repoLink: '',
     sourceLink: 'https://app.mc2.fi',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -129,6 +130,7 @@ export const PROJECTS = [
     imgSrc: './assets/Image/dodoex.png',
     title: 'DODO X',
     description: 'Dex and Launchpad, Crosschain Aggregator using Next.js, Solidity, Web3.js, Rainbow kit, Wagmi',
+    repoLink: '',
     sourceLink: 'https://dodoex.io/en',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -137,6 +139,7 @@ export const PROJECTS = [
     title: 'SIDUS Heroes',
     description:
       'SIDUS HEROES is a GameFi web3 Publisher (2023 golden excellence award winner in UAE) building a unique metaverse ecosystem with multiple games of various genres that share a single recognizable lore and in game token “Sidus” and DAO governance token "Senate"',
+    repoLink: '',
     sourceLink: 'https://sidusheroes.com/project/',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -145,6 +148,7 @@ export const PROJECTS = [
     title: 'Starkmeta AI Image Platform',
     description:
       'Starkmeta AI Image Generation Platform combined NFT marketplace using React, Typescript, Node.js, MongoDB, Azure, StableDiffusion API',
+    repoLink: '',
     sourceLink: 'https://starkmeta.ai',
     category: [PROJECT_CATEGORY.Blockchain, PROJECT_CATEGORY.FULL_STACK],
   },
@@ -152,7 +156,7 @@ export const PROJECTS = [
     imgSrc: './assets/Image/StarkMarketplace.png',
     title: 'StarkMeta NFT Marketplace',
     description: 'StarkMeta NFT marketplace using React, Typescript, Solidity, ERC721',
-//    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
+    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
     sourceLink: 'https://stark-marketplace.vercel.app/',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -161,7 +165,7 @@ export const PROJECTS = [
     title: 'The Lending gateway of Solana',
     description:
       'Larix is the ultimate lending gateway on Solana, adopted a dynamic interest rate model and created more capital-efficient risk management pools',
-//    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
+    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
     sourceLink: 'https://projectlarix.com/',
     category: [PROJECT_CATEGORY.Blockchain],
   },
@@ -171,6 +175,7 @@ export const PROJECTS = [
     description:
       'We present the STEAK protocol, a proof of stake (PoS) protocol designed to serve as a sustainable and efficient source of randomness for dApps on the Cardano blockchain',
     sourceLink: 'https://steakprotocol.com/',
+    repoLink: '',
     category: [PROJECT_CATEGORY.Blockchain],
   },
   {
@@ -178,7 +183,7 @@ export const PROJECTS = [
     title: 'Solana Yield Aggregation Homestead',
     description:
       'Tulip Protocol currently offers three types of yield products, “Vaults”, “Lending” & “Leveraged Farming”.',
-//    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
+    repoLink: 'https://github.com/AlterShadow/NFTMarketplace-SC',
     sourceLink: 'https://tulip.garden/leverage',
     category: [PROJECT_CATEGORY.Blockchain],
   },

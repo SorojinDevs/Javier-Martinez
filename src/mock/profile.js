@@ -4,7 +4,7 @@ export const SOCIAL_LINKS = [
     icon: 'akar-icons:twitter-fill',
   },
   {
-    link: 'https://github.com/StainerHenry',
+    link: 'https://github.com/AlterShadow',
     icon: 'akar-icons:github-fill',
   },
   {
@@ -16,7 +16,7 @@ export const SOCIAL_LINKS = [
 export const HERO_TITLES = ['Javier Martinez', 'Full-stack & Blockchain Engineer', 'AI Enthusiast'];
 
 export const aboutParagraph =
-  'Highly motivated and enthusiastic Full Stack & Blockchain Engineer with experience in designing, developing and maintaining Web2 & Web3 platforms using technologies such as Solidity, Rust, FunC, Tact, Huskell, React, Next.js, React-Native, Vue, ';
+  'Experienced and accomplished Senior Web3 and AI Developer with years of experience (from 2019) in building applications with multiple languages. Expertised in designing, developing, and deploying blockchain and AI solutions for finance and supply chain management.';
 
 export const contactEmail = 'javiermartinez98826@gmail.com';
 
